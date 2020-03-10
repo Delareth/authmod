@@ -1,0 +1,16 @@
+[
+{
+  "modid": "authmod",
+  "name": "AuthMod",
+  "description": "authorization mode for tlauncher",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Scr1m"],
+  "credits": "",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
